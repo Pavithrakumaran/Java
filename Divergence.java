@@ -33,3 +33,35 @@ public static void main(String args[])
 	
 }
 }
+OUTPUT:
+Enter the number:
+1
+The n value is: 2.0
+Enter the number:
+2
+The n value is: 4.0
+Enter the number:
+3
+The n value is: 11.0
+Enter the number:
+4
+The n value is: 31.0
+Enter the number:
+5
+The n value is: 83.0
+Enter the number:
+6
+The n value is: 227.0
+Enter the number:
+7
+The n value is: 616.0
+Enter the number:
+8
+The n value is: 1674.0
+Enter the number:
+9
+The n value is: 4550.0
+Enter the number:
+10
+The n value is: 12367.0
+
